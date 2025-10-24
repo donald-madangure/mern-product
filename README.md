@@ -1,21 +1,17 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+About This Project:
 
-About This Course:
-
-- ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
-- 🔥 Build an API
-- 📱 Responsive UI With React.js and ChakraUI
-- 🐞 Error Handling
-- 🌐 Deployment
-- 🚀 And Many More Cool Features
+-  Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+-  Build an API
+-  Responsive UI With React.js and ChakraUI
+-  Error Handling
+-  And Many More Cool Features
 
 ### Setup .env file
 
 ```shell
 MONGO_URI=your_mongo_uri
-PORT=5000
+PORT=your_port 
 ```
 
 ### Run this app locally
@@ -30,4 +26,4 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+
